@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <meta charset=""UTF-8"">
+                <title>ERRO QUEBRA</title>
+		</head>
+        <body>
+        <p>Prezados,</p>
+        
+        <p>A tarefa abaixo n&atilde;o foi executada com sucesso e necessita de intera&ccedil;&atilde;o humana.</p>
+		
+		
+        <p>*REQUISICAO*</p>
+
+		<p>Descri&ccedil;&atilde;o: *ERRO_DETALHES*</p>
+
+	<p><strong>*ITEM ERRO*</strong></p>
+
+	<p>Para baixar os arquivos acesse o link: *URL_ARQUIVO*</p>
+
+        <p>A atividade foi iniciada em <strong>*DATAHORA_INI*</strong> e finalizada em <strong>*DATAHORA_FIM*</strong>.</p>
+        <br>
+        <p>Atenciosamente,</p>
+        <p>Equipe Taxverse.</p>
+    </body>
+</html>

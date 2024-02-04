@@ -1,0 +1,8 @@
+{
+  "name": "prj_Apter_Bot_DownloadArquivos",
+  "sourceDirPath": "/prj_Apter_DownloadArquivos/",
+  "resourceDirPath": "/prj_Apter_DownloadArquivos/resources/",
+  "sourceDirRelative": true,
+  "resourceDirRelative": true,
+  "botId": "prj_Apter_Bot_DownloadArquivos"
+}
